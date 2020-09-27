@@ -1,0 +1,10 @@
+F:\WindownnForm\BaiText\BaiText\bin\Debug\BaiText.exe.config
+F:\WindownnForm\BaiText\BaiText\bin\Debug\BaiText.exe
+F:\WindownnForm\BaiText\BaiText\bin\Debug\BaiText.pdb
+F:\WindownnForm\BaiText\BaiText\obj\Debug\BaiText.csprojAssemblyReference.cache
+F:\WindownnForm\BaiText\BaiText\obj\Debug\BaiText.Form1.resources
+F:\WindownnForm\BaiText\BaiText\obj\Debug\BaiText.Properties.Resources.resources
+F:\WindownnForm\BaiText\BaiText\obj\Debug\BaiText.csproj.GenerateResource.cache
+F:\WindownnForm\BaiText\BaiText\obj\Debug\BaiText.csproj.CoreCompileInputs.cache
+F:\WindownnForm\BaiText\BaiText\obj\Debug\BaiText.exe
+F:\WindownnForm\BaiText\BaiText\obj\Debug\BaiText.pdb
